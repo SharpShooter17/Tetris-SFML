@@ -1,0 +1,12 @@
+﻿  Block.cpp
+  Game.cpp
+Game.cpp(7): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\System.hpp': No such file or directory
+  Level.cpp
+  Logic.cpp
+d:\programowanie\c++\gry\tetris [sfml][c++]\tetris [sfml][c++]\model.h(4): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+d:\programowanie\c++\gry\tetris [sfml][c++]\tetris [sfml][c++]\Game.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'TGUI\TGUI.hpp': No such file or directory
+  Model.cpp
+d:\programowanie\c++\gry\tetris [sfml][c++]\tetris [sfml][c++]\model.h(4): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Render.cpp
+d:\programowanie\c++\gry\tetris [sfml][c++]\tetris [sfml][c++]\model.h(4): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
